@@ -1,0 +1,4 @@
+# 117.) Utilizing .gitignore file to ignore these files that has confidential information
+__pycache__
+venv/
+.env
